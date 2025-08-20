@@ -1,0 +1,343 @@
+[
+  {
+    "question": "Which of the following best defines an Information System?",
+    "options": ["A collection of unrelated programs", "A set of people, processes, and technology that manage and process information", "A single computer used for gaming", "Only the hardware components of a computer"],
+    "correctAnswer": "A set of people, processes, and technology that manage and process information",
+    "rationale": "An Information System integrates people, technology, and processes to collect, store, and distribute information."
+  },
+  {
+    "question": "Which of the following is NOT a component of an Information System?",
+    "options": ["Hardware", "Software", "Data", "Electric current"],
+    "correctAnswer": "Electric current",
+    "rationale": "The five main components of an IS are hardware, software, data, people, and processes."
+  },
+  {
+    "question": "Data becomes information when:",
+    "options": ["It is stored on a hard disk", "It is processed and given meaning", "It is printed on paper", "It is collected randomly"],
+    "correctAnswer": "It is processed and given meaning",
+    "rationale": "Information is data that has been processed to be meaningful and useful."
+  },
+  {
+    "question": "Which of the following is an example of an Information System?",
+    "options": ["Payroll system", "Electric generator", "Keyboard", "Printer"],
+    "correctAnswer": "Payroll system",
+    "rationale": "A payroll system processes employee data to generate salary information, making it an IS."
+  },
+  {
+    "question": "The people who use an information system to make decisions are called:",
+    "options": ["Hackers", "End-users", "Processors", "Technicians"],
+    "correctAnswer": "End-users",
+    "rationale": "End-users interact with the system to retrieve and apply information for decision-making."
+  },
+  {
+    "question": "Which of the following is the main purpose of an Information System?",
+    "options": ["To generate electricity", "To process data into useful information", "To increase file size", "To repair hardware"],
+    "correctAnswer": "To process data into useful information",
+    "rationale": "The primary goal of an IS is to transform raw data into meaningful information."
+  },
+  {
+    "question": "Which of the following is an example of transaction processing system?",
+    "options": ["ATM banking system", "Decision support system", "Spreadsheet software", "Video game"],
+    "correctAnswer": "ATM banking system",
+    "rationale": "ATMs are transaction processing systems that handle deposits, withdrawals, and balance checks."
+  },
+  {
+    "question": "Decision Support Systems are designed to:",
+    "options": ["Enter payroll data", "Support managers in decision-making", "Repair computer hardware", "Store raw data"],
+    "correctAnswer": "Support managers in decision-making",
+    "rationale": "Decision Support Systems (DSS) help managers analyze information to make better decisions."
+  },
+  {
+    "question": "Which is an example of Management Information System (MIS)?",
+    "options": ["Hospital patient record system", "Traffic lights", "Power generator", "Television"],
+    "correctAnswer": "Hospital patient record system",
+    "rationale": "MIS provides structured reports like patient records to aid management decisions."
+  },
+  {
+    "question": "Which component of an Information System provides the rules and procedures for operations?",
+    "options": ["Hardware", "People", "Processes", "Data"],
+    "correctAnswer": "Processes",
+    "rationale": "Processes define the methods and rules for how data is collected, processed, and distributed."
+  },
+  {
+    "question": "Which of the following is NOT a type of Information System?",
+    "options": ["Transaction Processing System", "Management Information System", "Decision Support System", "Engine Combustion System"],
+    "correctAnswer": "Engine Combustion System",
+    "rationale": "Combustion systems are mechanical, not information systems."
+  },
+  {
+    "question": "Executive Support Systems (ESS) are primarily used by:",
+    "options": ["Technicians", "Top-level managers", "Students", "Data entry clerks"],
+    "correctAnswer": "Top-level managers",
+    "rationale": "ESS provides strategic information to senior executives."
+  },
+  {
+    "question": "An Information System that integrates all departments and functions of a company is called:",
+    "options": ["MIS", "DSS", "ERP", "TPS"],
+    "correctAnswer": "ERP",
+    "rationale": "Enterprise Resource Planning (ERP) systems integrate processes across departments."
+  },
+  {
+    "question": "Which of the following is a key difference between data and information?",
+    "options": ["Data is processed, information is raw", "Data is raw facts, information is processed meaning", "Both are the same thing", "Information is always numerical"],
+    "correctAnswer": "Data is raw facts, information is processed meaning",
+    "rationale": "Data is unprocessed, while information is meaningful data."
+  },
+  {
+    "question": "Knowledge in an Information System refers to:",
+    "options": ["Random facts", "Processed information applied for decisions", "Hardware manuals", "Software installation CDs"],
+    "correctAnswer": "Processed information applied for decisions",
+    "rationale": "Knowledge is actionable information used for decision-making."
+  },
+  {
+    "question": "Which of the following is an output of an Information System?",
+    "options": ["Raw numbers", "Reports", "Unprocessed data", "Wires"],
+    "correctAnswer": "Reports",
+    "rationale": "Information Systems produce outputs like reports, charts, and summaries."
+  },
+  {
+    "question": "Which role does IT play in an Information System?",
+    "options": ["Only physical security", "Technology infrastructure for data processing", "Making food for staff", "Replacing human decision-making completely"],
+    "correctAnswer": "Technology infrastructure for data processing",
+    "rationale": "IT provides the hardware, software, and networks needed for IS operations."
+  },
+  {
+    "question": "An Information System that focuses on day-to-day operations is:",
+    "options": ["Strategic Information System", "Transaction Processing System", "Decision Support System", "Executive Support System"],
+    "correctAnswer": "Transaction Processing System",
+    "rationale": "TPS handles routine transactions like sales and payroll."
+  },
+  {
+    "question": "A characteristic of a good Information System is:",
+    "options": ["Late reporting", "Accuracy and timeliness", "Irrelevant data", "Random processing"],
+    "correctAnswer": "Accuracy and timeliness",
+    "rationale": "Effective IS must provide accurate, timely, and relevant information."
+  },
+  {
+    "question": "Which of the following best describes the relationship between IT and IS?",
+    "options": ["IT is broader than IS", "IS is broader than IT", "They are exactly the same", "Neither is related"],
+    "correctAnswer": "IS is broader than IT",
+    "rationale": "IS includes people, processes, and IT; IT is only the technology part of IS."
+  },
+  {
+    "question": "What does processing in an information system primarily involve?",
+    "options": [
+      "Entering data into the system",
+      "Transforming raw data into meaningful information",
+      "Storing data for future use",
+      "Displaying results on a screen"
+    ],
+    "correctAnswer": "Transforming raw data into meaningful information",
+    "rationale": "Processing refers to the manipulation of input data to generate useful information."
+  },
+  {
+    "question": "Which component of the CPU is mainly responsible for processing instructions?",
+    "options": [
+      "Control Unit",
+      "Arithmetic Logic Unit (ALU)",
+      "Input Device",
+      "Output Device"
+    ],
+    "correctAnswer": "Arithmetic Logic Unit (ALU)",
+    "rationale": "The ALU performs arithmetic and logical operations during processing."
+  },
+  {
+    "question": "In information processing, which step comes immediately after input?",
+    "options": [
+      "Output",
+      "Storage",
+      "Processing",
+      "Feedback"
+    ],
+    "correctAnswer": "Processing",
+    "rationale": "After input, data is processed to transform it into information."
+  },
+  {
+    "question": "Batch processing is best described as:",
+    "options": [
+      "Processing data immediately as it is entered",
+      "Processing data at scheduled intervals or in groups",
+      "Processing that happens in real-time",
+      "Processing that requires no human intervention"
+    ],
+    "correctAnswer": "Processing data at scheduled intervals or in groups",
+    "rationale": "Batch processing handles data in large sets at specific times rather than instantly."
+  },
+  {
+    "question": "Which type of processing is used in ATMs?",
+    "options": [
+      "Batch processing",
+      "Offline processing",
+      "Real-time processing",
+      "Distributed processing"
+    ],
+    "correctAnswer": "Real-time processing",
+    "rationale": "ATMs require immediate response, hence they rely on real-time processing."
+  },
+  {
+    "question": "Which of these best represents the data processing cycle?",
+    "options": [
+      "Input → Storage → Output → Processing",
+      "Storage → Processing → Input → Output",
+      "Input → Processing → Output → Storage",
+      "Processing → Input → Output → Storage"
+    ],
+    "correctAnswer": "Input → Processing → Output → Storage",
+    "rationale": "This cycle reflects the logical flow of how information systems handle data."
+  },
+  {
+    "question": "Which of the following is NOT a form of data processing?",
+    "options": [
+      "Batch",
+      "Real-time",
+      "Online",
+      "Backup"
+    ],
+    "correctAnswer": "Backup",
+    "rationale": "Backup is a storage and safety measure, not a method of processing data."
+  },
+  {
+    "question": "Parallel processing in computers refers to:",
+    "options": [
+      "Running one task at a time",
+      "Running multiple tasks simultaneously",
+      "Storing data in parallel memory units",
+      "Displaying output on multiple screens"
+    ],
+    "correctAnswer": "Running multiple tasks simultaneously",
+    "rationale": "Parallel processing allows a system to execute several tasks at once, improving efficiency."
+  },
+  {
+    "question": "What is the main purpose of information processing?",
+    "options": [
+      "To generate raw data",
+      "To convert data into useful information",
+      "To delete unnecessary files",
+      "To transmit signals across networks"
+    ],
+    "correctAnswer": "To convert data into useful information",
+    "rationale": "Processing adds value to raw data, producing information that supports decision-making."
+  },
+  {
+    "question": "Which of these is an example of real-time processing?",
+    "options": [
+      "Payroll systems",
+      "Online flight booking",
+      "Exam grading after a semester",
+      "Data backup at night"
+    ],
+    "correctAnswer": "Online flight booking",
+    "rationale": "Flight booking systems require immediate processing to update seat availability."
+  },
+  {
+    "question": "What role does the Control Unit play in processing?",
+    "options": [
+      "Stores data temporarily",
+      "Directs the flow of instructions and data",
+      "Performs arithmetic operations",
+      "Handles user input"
+    ],
+    "correctAnswer": "Directs the flow of instructions and data",
+    "rationale": "The Control Unit coordinates the activities of the computer system during processing."
+  },
+  {
+    "question": "Which of these is a disadvantage of batch processing?",
+    "options": [
+      "It requires expensive equipment",
+      "It delays output since data is processed later",
+      "It cannot handle large volumes of data",
+      "It only works with small datasets"
+    ],
+    "correctAnswer": "It delays output since data is processed later",
+    "rationale": "Batch systems wait until sufficient data is collected before processing, causing delays."
+  },
+  {
+    "question": "Data validation during processing ensures:",
+    "options": [
+      "Data is accurate and meaningful",
+      "Data is backed up properly",
+      "Data is displayed in reports",
+      "Data is transmitted quickly"
+    ],
+    "correctAnswer": "Data is accurate and meaningful",
+    "rationale": "Validation checks correctness and accuracy before data is processed."
+  },
+  {
+    "question": "Which system uses distributed processing?",
+    "options": [
+      "A standalone desktop computer",
+      "A single-user word processor",
+      "Cloud computing platforms",
+      "Simple calculators"
+    ],
+    "correctAnswer": "Cloud computing platforms",
+    "rationale": "Cloud computing distributes processing tasks across multiple servers."
+  },
+  {
+    "question": "Which of the following is an example of batch processing?",
+    "options": [
+      "Point of Sale (POS) systems",
+      "ATM withdrawals",
+      "Monthly payroll calculation",
+      "Online exam grading"
+    ],
+    "correctAnswer": "Monthly payroll calculation",
+    "rationale": "Payroll systems collect data and process it at scheduled times in batches."
+  },
+  {
+    "question": "Real-time processing is necessary when:",
+    "options": [
+      "Immediate results are required",
+      "Delayed reports are acceptable",
+      "Data can be stored for later use",
+      "Tasks are not time-sensitive"
+    ],
+    "correctAnswer": "Immediate results are required",
+    "rationale": "Real-time processing ensures outputs are generated instantly in time-critical systems."
+  },
+  {
+    "question": "Which of these is an example of offline processing?",
+    "options": [
+      "Bank ATM transactions",
+      "Processing exam scripts manually after exams",
+      "Airline ticket booking",
+      "E-commerce checkout"
+    ],
+    "correctAnswer": "Processing exam scripts manually after exams",
+    "rationale": "Offline processing is done after data collection, not at the time of entry."
+  },
+  {
+    "question": "Why is feedback important in processing?",
+    "options": [
+      "It helps improve accuracy and efficiency",
+      "It ensures data is stored permanently",
+      "It prevents system access",
+      "It eliminates the need for input"
+    ],
+    "correctAnswer": "It helps improve accuracy and efficiency",
+    "rationale": "Feedback allows the system or user to make corrections and improvements in processing."
+  },
+  {
+    "question": "Which processing method is suitable for weather forecasting?",
+    "options": [
+      "Batch processing",
+      "Offline processing",
+      "Real-time processing",
+      "Manual processing"
+    ],
+    "correctAnswer": "Real-time processing",
+    "rationale": "Weather forecasting requires immediate updates and analysis of large datasets."
+  },
+  {
+    "question": "Which of the following is an example of parallel processing?",
+    "options": [
+      "Two printers printing documents at the same time",
+      "A CPU performing multiple instructions at once",
+      "Two students writing exams in the same hall",
+      "Uploading and downloading files separately"
+    ],
+    "correctAnswer": "A CPU performing multiple instructions at once",
+    "rationale": "Parallel processing refers to a computer handling multiple instructions simultaneously."
+  }
+]
+

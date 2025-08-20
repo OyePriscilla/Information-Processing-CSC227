@@ -1,0 +1,111 @@
+[
+  {
+    "question": "Which of the following best defines Microsoft Access?",
+    "options": [
+      "A word processing application",
+      "A database management system (DBMS)",
+      "A spreadsheet program",
+      "An operating system"
+    ],
+    "correctAnswer": "A database management system (DBMS)",
+    "rationale": "Microsoft Access is a relational database management system used to store, manage, and analyze data."
+  },
+  {
+    "question": "What is a table in Microsoft Access?",
+    "options": [
+      "A collection of related data organized in rows and columns",
+      "A tool for making charts",
+      "A text editing space",
+      "A set of hyperlinks to web pages"
+    ],
+    "correctAnswer": "A collection of related data organized in rows and columns",
+    "rationale": "Tables in Access store data in a structured form using fields (columns) and records (rows)."
+  },
+  {
+    "question": "In Access, a record is defined as:",
+    "options": [
+      "A single piece of data",
+      "A complete set of related fields describing one item",
+      "A command used in queries",
+      "A backup copy of a database"
+    ],
+    "correctAnswer": "A complete set of related fields describing one item",
+    "rationale": "A record represents all information about one entity in a table, e.g., a student’s full details."
+  },
+  {
+    "question": "Which of the following is true about a primary key in Access?",
+    "options": [
+      "It must be unique for each record",
+      "It can have duplicate values",
+      "It is always a number",
+      "It cannot be changed once set"
+    ],
+    "correctAnswer": "It must be unique for each record",
+    "rationale": "The primary key uniquely identifies each record in a table to avoid duplication."
+  },
+  {
+    "question": "Which object in Access is used to retrieve specific data based on criteria?",
+    "options": ["Tables", "Forms", "Queries", "Reports"],
+    "correctAnswer": "Queries",
+    "rationale": "Queries allow users to filter, sort, and retrieve specific data from one or more tables."
+  },
+  {
+    "question": "Which Access object is primarily used to present data in a printed format?",
+    "options": ["Forms", "Reports", "Tables", "Macros"],
+    "correctAnswer": "Reports",
+    "rationale": "Reports are used to format, summarize, and present data for printing and professional presentation."
+  },
+  {
+    "question": "Which Access object allows easy data entry for end users?",
+    "options": ["Forms", "Reports", "Queries", "Tables"],
+    "correctAnswer": "Forms",
+    "rationale": "Forms provide a user-friendly interface for entering, editing, and viewing records."
+  },
+  {
+    "question": "What is the relationship in Microsoft Access?",
+    "options": [
+      "A link between two or more tables",
+      "A backup copy of the database",
+      "An Access form design",
+      "A type of query"
+    ],
+    "correctAnswer": "A link between two or more tables",
+    "rationale": "Relationships define how tables connect and share data through common fields."
+  },
+  {
+    "question": "In Access, what is a foreign key?",
+    "options": [
+      "A key used to secure a database",
+      "A field in one table that refers to a primary key in another table",
+      "A duplicate copy of the primary key",
+      "A system-generated ID"
+    ],
+    "correctAnswer": "A field in one table that refers to a primary key in another table",
+    "rationale": "Foreign keys maintain referential integrity between related tables."
+  },
+  {
+    "question": "Which of the following is an advantage of using Access?",
+    "options": [
+      "It automatically generates computer code",
+      "It provides relational database features with a user-friendly interface",
+      "It only works online",
+      "It requires programming knowledge to use"
+    ],
+    "correctAnswer": "It provides relational database features with a user-friendly interface",
+    "rationale": "Access combines relational database management with a simple interface suitable for beginners."
+  },
+  {
+    "question": "Which of these file extensions belongs to Microsoft Access databases?",
+    "options": [".docx", ".mdb", ".xlsx", ".pptx"],
+    "correctAnswer": ".mdb",
+    "rationale": "Older Access files use the .mdb extension, while newer versions use .accdb."
+  },
+  
+  
+  {
+    "question": "Which of the following is NOT an object in Access?",
+    "options": ["Table", "Query", "Report", "Spreadsheet"],
+    "correctAnswer": "Spreadsheet",
+    "rationale": "Access objects include tables, queries, forms, reports, and macros, but not spreadsheets."
+  }  
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Which of the following is an example of an output device?",
+    "options": ["Keyboard", "Monitor", "Scanner", "Mouse"],
+    "correctAnswer": "Monitor",
+    "rationale": "A monitor displays processed information to the user, making it an output device."
+  },
+  
+  {
+    "question": "Which storage device is considered volatile?",
+    "options": ["Hard Disk", "ROM", "RAM", "DVD"],
+    "correctAnswer": "RAM",
+    "rationale": "RAM loses its contents when power is turned off, making it volatile."
+  },
+  {
+    "question": "What does 'output' in an information system refer to?",
+    "options": ["Data entered into the system", "Processed information delivered to users", "Instructions given to the CPU", "Storage of data"],
+    "correctAnswer": "Processed information delivered to users",
+    "rationale": "Output is the result of processed data presented in usable form."
+  },
+  {
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["RAM", "Cache", "Hard Disk Drive", "Registers"],
+    "correctAnswer": "Hard Disk Drive",
+    "rationale": "Hard disk drives provide long-term secondary storage of data and programs."
+  },
+  {
+    "question": "Which device provides hard-copy output?",
+    "options": ["Monitor", "Speaker", "Printer", "Projector"],
+    "correctAnswer": "Printer",
+    "rationale": "Printers produce physical (hard-copy) output on paper."
+  },
+  {
+    "question": "Which type of memory is non-volatile and rewritable?",
+    "options": ["ROM", "RAM", "Flash Memory", "Cache"],
+    "correctAnswer": "Flash Memory",
+    "rationale": "Flash memory retains data without power and can be rewritten many times."
+  },
+  {
+    "question": "The process of converting digital signals into sound output is performed by:",
+    "options": ["Printer", "Speaker", "Keyboard", "Mouse"],
+    "correctAnswer": "Speaker",
+    "rationale": "Speakers convert processed digital audio signals into sound (output)."
+  },
+  {
+    "question": "Which of the following is an example of soft copy output?",
+    "options": ["Printed paper", "Projected image", "Photocopied document", "Plotter diagram"],
+    "correctAnswer": "Projected image",
+    "rationale": "Soft copy output is not permanent and includes displays on screens and projectors."
+  },
+  {
+    "question": "Which optical storage medium can be written once but read many times?",
+    "options": ["CD-ROM", "CD-R", "CD-RW", "DVD-RW"],
+    "correctAnswer": "CD-R",
+    "rationale": "CD-R allows data to be written only once but can be read multiple times."
+  },  
+  {
+    "question": "Which device both accepts input and provides output?",
+    "options": ["Monitor", "Printer", "Touch Screen", "Scanner"],
+    "correctAnswer": "Touch Screen",
+    "rationale": "Touch screens allow input through touch and display output simultaneously."
+  },
+  {
+    "question": "Which is NOT a characteristic of secondary storage?",
+    "options": ["Permanent storage", "High capacity", "Volatile", "Slower than primary memory"],
+    "correctAnswer": "Volatile",
+    "rationale": "Secondary storage is non-volatile; it retains data even when the power is off."
+  },
+  
+  {
+    "question": "The process of storing data for future use in a computer system is called:",
+    "options": ["Output", "Storage", "Input", "Processing"],
+    "correctAnswer": "Storage",
+    "rationale": "Storage refers to saving data in a computer for future use."
+  },
+  {
+    "question": "Which output device is most suitable for presentations?",
+    "options": ["Printer", "Plotter", "Projector", "Speaker"],
+    "correctAnswer": "Projector",
+    "rationale": "Projectors are commonly used to display visual information to large audiences."
+  },
+  {
+    "question": "Which of the following is an example of an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "correctAnswer": "Monitor",
+    "rationale": "A monitor displays information to the user, making it an output device."
+  },
+  {
+    "question": "Which storage type is volatile and loses data when power is turned off?",
+    "options": ["RAM", "ROM", "Hard Disk", "SSD"],
+    "correctAnswer": "RAM",
+    "rationale": "RAM is volatile storage that clears data once the system is powered off."
+  },
+  {
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["RAM", "Cache", "Hard Disk", "Register"],
+    "correctAnswer": "Hard Disk",
+    "rationale": "Hard disks store data permanently and are classified as secondary storage."
+  },
+  
+  {
+    "question": "What is the unit of measurement for storage capacity?",
+    "options": ["Hertz", "Bytes", "Pixels", "Volts"],
+    "correctAnswer": "Bytes",
+    "rationale": "Data storage is measured in bytes, such as kilobytes, megabytes, and gigabytes."
+  },
+  {
+    "question": "Which of the following is an example of input hardware?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "correctAnswer": "Keyboard",
+    "rationale": "Keyboards are input devices used to send data into the computer."
+  },
+  {
+    "question": "The part of the CPU responsible for performing calculations is:",
+    "options": ["Control Unit", "Arithmetic Logic Unit (ALU)", "Memory Unit", "Cache"],
+    "correctAnswer": "Arithmetic Logic Unit (ALU)",
+    "rationale": "The ALU performs arithmetic and logical operations in the CPU."
+  },
+  {
+    "question": "RAM is best described as:",
+    "options": ["Permanent storage", "Temporary storage", "Input device", "Output device"],
+    "correctAnswer": "Temporary storage",
+    "rationale": "RAM holds data temporarily while the computer is running; its content is lost when power is off."
+  },
+  {
+    "question": "Which storage device uses magnetic disks?",
+    "options": ["Hard Disk Drive (HDD)", "Solid State Drive (SSD)", "Flash Drive", "CD-ROM"],
+    "correctAnswer": "Hard Disk Drive (HDD)",
+    "rationale": "HDDs store data on rotating magnetic platters."
+  },
+  {
+    "question": "The main circuit board in a computer is called:",
+    "options": ["Power supply", "Processor", "Motherboard", "Chipset"],
+    "correctAnswer": "Motherboard",
+    "rationale": "The motherboard holds the CPU, memory, and other essential components."
+  },
+  {
+    "question": "Which is NOT an output device?",
+    "options": ["Plotter", "Printer", "Scanner", "Monitor"],
+    "correctAnswer": "Scanner",
+    "rationale": "Scanners are input devices used to capture data, not output devices."
+  },
+  {
+    "question": "The speed of a processor is measured in:",
+    "options": ["Bits", "Bytes", "Hertz", "Pixels"],
+    "correctAnswer": "Hertz",
+    "rationale": "Processor speed is measured in Hertz (cycles per second)."
+  },
+  {
+    "question": "Which of the following is a pointing device?",
+    "options": ["Mouse", "Keyboard", "Monitor", "Speaker"],
+    "correctAnswer": "Mouse",
+    "rationale": "A mouse is a pointing device used to control the cursor on screen."
+  },
+  {
+    "question": "Which is an example of volatile memory?",
+    "options": ["Hard Disk", "ROM", "RAM", "Flash"],
+    "correctAnswer": "RAM",
+    "rationale": "RAM loses its content when power is switched off, making it volatile."
+  },
+  {
+    "question": "BIOS is stored in:",
+    "options": ["RAM", "ROM", "Cache", "Hard disk"],
+    "correctAnswer": "ROM",
+    "rationale": "BIOS is stored in ROM to persist even when the computer is powered off."
+  },
+  {
+    "question": "An optical storage device includes:",
+    "options": ["USB Flash", "CD-ROM", "Hard Drive", "SSD"],
+    "correctAnswer": "CD-ROM",
+    "rationale": "CD-ROM is an optical disc storage medium that uses lasers to read data."
+  },
+  {
+    "question": "Which device converts digital signals to analog for internet use?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "correctAnswer": "Modem",
+    "rationale": "A modem converts digital data from a computer into analog signals for transmission."
+  },
+  {
+    "question": "The smallest unit of data a computer can process is:",
+    "options": ["Byte", "Bit", "Nibble", "Word"],
+    "correctAnswer": "Bit",
+    "rationale": "A bit (binary digit) is the smallest unit of data in computing."
+  },
+  {
+    "question": "Cache memory is located:",
+    "options": ["In the hard disk", "On the processor", "In secondary storage", "On the motherboard slot"],
+    "correctAnswer": "On the processor",
+    "rationale": "Cache memory is built directly into or near the CPU for fast access."
+  },
+  {
+    "question": "UPS is used to:",
+    "options": ["Provide backup power", "Increase processing speed", "Store data permanently", "Display output"],
+    "correctAnswer": "Provide backup power",
+    "rationale": "Uninterruptible Power Supply (UPS) provides power during outages."
+  },
+  {
+    "question": "Which type of computer memory is non-volatile?",
+    "options": ["RAM", "Cache", "ROM", "Registers"],
+    "correctAnswer": "ROM",
+    "rationale": "ROM retains its contents even when the computer is powered off."
+  },
+  {
+    "question": "A touch screen is an example of:",
+    "options": ["Input device only", "Output device only", "Both input and output", "Neither"],
+    "correctAnswer": "Both input and output",
+    "rationale": "A touch screen allows user input and displays output at the same time."
+  },
+  {
+    "question": "Which of the following is NOT a storage device?",
+    "options": ["Hard Disk", "CD", "Scanner", "Pen Drive"],
+    "correctAnswer": "Scanner",
+    "rationale": "Scanners are used to input images, not store data."
+  },
+  {
+    "question": "The function of the Control Unit (CU) in the CPU is to:",
+    "options": ["Perform calculations", "Store instructions", "Direct operations of other units", "Display results"],
+    "correctAnswer": "Direct operations of other units",
+    "rationale": "The CU directs the flow of data and instructions between components."
+  },
+  {
+    "question": "Which port is commonly used to connect external devices like printers and storage drives?",
+    "options": ["VGA", "USB", "HDMI", "PS/2"],
+    "correctAnswer": "USB",
+    "rationale": "USB ports are the standard interface for connecting external devices."
+  }
+]

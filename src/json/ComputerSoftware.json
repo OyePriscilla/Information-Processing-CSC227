@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Which of the following best defines computer software?",
+    "options": ["The physical parts of a computer", "A collection of programs that directs computer operations", "The internet and its resources", "Removable storage media"],
+    "correctAnswer": "A collection of programs that directs computer operations",
+    "rationale": "Software is a set of instructions/programs that enable hardware to perform tasks."
+  },
+  {
+    "question": "Which of these is system software?",
+    "options": ["Word Processor", "Spreadsheet", "Operating System", "Web Browser"],
+    "correctAnswer": "Operating System",
+    "rationale": "System software manages hardware and provides a platform for application software."
+  },
+  {
+    "question": "Which is an example of application software?",
+    "options": ["Windows", "Linux", "MS Word", "BIOS"],
+    "correctAnswer": "MS Word",
+    "rationale": "MS Word is designed for word processing, making it application software."
+  },
+  {
+    "question": "The software permanently stored in ROM is called:",
+    "options": ["BIOS", "Compiler", "Interpreter", "Assembler"],
+    "correctAnswer": "BIOS",
+    "rationale": "BIOS is firmware stored in ROM that initializes hardware during boot."
+  },
+  
+  {
+    "question": "Which software allows multiple programs to run at the same time?",
+    "options": ["Utility software", "Operating system", "Application software", "Middleware"],
+    "correctAnswer": "Operating system",
+    "rationale": "Operating systems manage multitasking and process scheduling."
+  },
+  {
+    "question": "Utility programs are designed to:",
+    "options": ["Perform general computing tasks", "Develop software", "Perform hardware repairs", "Control the internet"],
+    "correctAnswer": "Perform general computing tasks",
+    "rationale": "Utilities perform specific maintenance tasks such as file management and virus scanning."
+  },
+  {
+    "question": "Which of the following is NOT an example of application software?",
+    "options": ["MS Excel", "Google Chrome", "Antivirus", "Windows 11"],
+    "correctAnswer": "Windows 11",
+    "rationale": "Windows 11 is an operating system, which is system software, not application software."
+  },
+  
+  {
+    "question": "Which type of software translates one line of code at a time?",
+    "options": ["Compiler", "Interpreter", "Assembler", "Loader"],
+    "correctAnswer": "Interpreter",
+    "rationale": "An interpreter executes high-level code line by line."
+  },
+  {
+    "question": "Software that detects and removes malicious programs is:",
+    "options": ["Firewall", "Antivirus", "Compiler", "Utility"],
+    "correctAnswer": "Antivirus",
+    "rationale": "Antivirus software protects against, detects, and removes malware."
+  },
+  
+  {
+    "question": "Which of the following is proprietary software?",
+    "options": ["Linux", "LibreOffice", "MS Office", "Apache"],
+    "correctAnswer": "MS Office",
+    "rationale": "MS Office is commercial software with restricted source code."
+  },
+  {
+    "question": "Firmware is best described as:",
+    "options": ["Temporary application code", "Software stored on hardware chips", "Network communication software", "Cloud-based programs"],
+    "correctAnswer": "Software stored on hardware chips",
+    "rationale": "Firmware is software embedded in hardware devices to control operations."
+  },
+  {
+    "question": "Which is an example of utility software?",
+    "options": ["Spreadsheet", "Disk Cleanup", "Compiler", "BIOS"],
+    "correctAnswer": "Disk Cleanup",
+    "rationale": "Disk Cleanup helps manage storage space, making it utility software."
+  },
+  {
+    "question": "What type of software is Google Chrome?",
+    "options": ["Application software", "System software", "Utility software", "Firmware"],
+    "correctAnswer": "Application software",
+    "rationale": "Chrome is an application software designed for web browsing."
+  },
+  {
+    "question": "Which of the following is the primary function of system software?",
+    "options": ["To entertain users", "To manage hardware and provide platform for apps", "To store user documents", "To browse the internet"],
+    "correctAnswer": "To manage hardware and provide platform for apps",
+    "rationale": "System software ensures proper coordination between hardware and software."
+  },
+  {
+    "question": "Software updates are important because they:",
+    "options": ["Make hardware faster", "Add new features and fix bugs", "Delete old files automatically", "Change the computer brand"],
+    "correctAnswer": "Add new features and fix bugs",
+    "rationale": "Updates improve security, performance, and functionality."
+  },
+  {
+    "question": "Which type of software is specifically designed to solve user problems?",
+    "options": ["Application software", "System software", "Utility software", "Firmware"],
+    "correctAnswer": "Application software",
+    "rationale": "Application software directly helps users perform tasks such as writing, browsing, or calculating."
+  }
+]

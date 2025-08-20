@@ -1,0 +1,192 @@
+[
+  {
+    "question": "Which of the following best defines the Internet?",
+    "options": [
+      "A single computer system used for browsing",
+      "A global network of interconnected computers and devices",
+      "A private database for storing information",
+      "A program for creating documents"
+    ],
+    "correctAnswer": "A global network of interconnected computers and devices",
+    "rationale": "The Internet is a worldwide system of networks that connect millions of computers for communication and resource sharing."
+  },
+  {
+    "question": "What is the World Wide Web (WWW)?",
+    "options": [
+      "A network cable",
+      "A collection of linked documents and resources accessed via the Internet",
+      "A type of computer virus",
+      "A programming language"
+    ],
+    "correctAnswer": "A collection of linked documents and resources accessed via the Internet",
+    "rationale": "The WWW is an information system on the Internet that links documents using hyperlinks and is accessed through browsers."
+  },
+  {
+    "question": "Which protocol is primarily used for transferring web pages on the Internet?",
+    "options": ["FTP", "HTTP", "SMTP", "IPX"],
+    "correctAnswer": "HTTP",
+    "rationale": "Hypertext Transfer Protocol (HTTP) is the foundation for data communication on the World Wide Web."
+  },
+  {
+    "question": "What is the role of a web browser?",
+    "options": [
+      "To write computer programs",
+      "To store files",
+      "To retrieve and display web pages",
+      "To protect against viruses"
+    ],
+    "correctAnswer": "To retrieve and display web pages",
+    "rationale": "Browsers like Chrome, Firefox, and Edge interpret and display content from the web."
+  },
+  {
+    "question": "Which of the following best describes a URL?",
+    "options": [
+      "An email address",
+      "A uniform way to identify and locate resources on the web",
+      "A software used to design web pages",
+      "A type of malware"
+    ],
+    "correctAnswer": "A uniform way to identify and locate resources on the web",
+    "rationale": "URL stands for Uniform Resource Locator; it is the address used to access resources on the Internet."
+  },
+
+  {
+    "question": "Which of the following is NOT a web browser?",
+    "options": ["Chrome", "Firefox", "Microsoft Word", "Safari"],
+    "correctAnswer": "Microsoft Word",
+    "rationale": "Microsoft Word is a word processor, not a web browser."
+  },
+  {
+    "question": "What does ISP stand for?",
+    "options": [
+      "Internet Service Provider",
+      "Internal Software Program",
+      "Information Security Protocol",
+      "Interconnected System Platform"
+    ],
+    "correctAnswer": "Internet Service Provider",
+    "rationale": "ISPs provide users with access to the Internet, such as MTN, Airtel, or Comcast."
+  },
+  {
+    "question": "What is the function of DNS (Domain Name System)?",
+    "options": [
+      "To translate IP addresses into domain names",
+      "To secure websites",
+      "To store emails",
+      "To design web pages"
+    ],
+    "correctAnswer": "To translate IP addresses into domain names",
+    "rationale": "DNS converts human-readable addresses like www.google.com into numerical IP addresses."
+  },
+  {
+    "question": "Which of the following is an example of a search engine?",
+    "options": ["Google", "Facebook", "Wikipedia", "Zoom"],
+    "correctAnswer": "Google",
+    "rationale": "Google is a search engine used to find information on the World Wide Web."
+  },
+  {
+    "question": "What is the main function of a hyperlink?",
+    "options": [
+      "To send emails",
+      "To connect one web page to another",
+      "To create images",
+      "To encrypt passwords"
+    ],
+    "correctAnswer": "To connect one web page to another",
+    "rationale": "Hyperlinks allow users to navigate between documents and websites."
+  },
+  {
+    "question": "Which of the following is true about HTTP and HTTPS?",
+    "options": [
+      "Both are programming languages",
+      "HTTPS is a secure version of HTTP",
+      "HTTP is more secure than HTTPS",
+      "Neither is used on the web"
+    ],
+    "correctAnswer": "HTTPS is a secure version of HTTP",
+    "rationale": "HTTPS adds encryption (SSL/TLS) to secure communication."
+  },
+  {
+    "question": "Which device connects local networks to the Internet?",
+    "options": ["Router", "Scanner", "Printer", "Monitor"],
+    "correctAnswer": "Router",
+    "rationale": "Routers direct data traffic and connect local devices to the global Internet."
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HighText Machine Language",
+      "HyperText Markup Language",
+      "HyperTool Management Language",
+      "Hyperlink and Text Mark Language"
+    ],
+    "correctAnswer": "HyperText Markup Language",
+    "rationale": "HTML is the standard markup language for creating web pages."
+  },
+  {
+    "question": "Which organization assigns domain names on the Internet?",
+    "options": ["UNESCO", "ICANN", "WHO", "ISO"],
+    "correctAnswer": "ICANN",
+    "rationale": "ICANN (Internet Corporation for Assigned Names and Numbers) manages domain names and IP addresses."
+  },
+  
+  {
+    "question": "What is bandwidth in Internet communication?",
+    "options": [
+      "The speed of a web browser",
+      "The amount of data transmitted in a given time",
+      "The size of a web page",
+      "The distance between networks"
+    ],
+    "correctAnswer": "The amount of data transmitted in a given time",
+    "rationale": "Bandwidth refers to the data transfer capacity of a network connection."
+  },
+  
+  {
+    "question": "Which of the following is a disadvantage of the Internet?",
+    "options": [
+      "Instant access to information",
+      "Global communication",
+      "Spread of malware and cybercrime",
+      "E-commerce opportunities"
+    ],
+    "correctAnswer": "Spread of malware and cybercrime",
+    "rationale": "Despite its advantages, the Internet also allows malicious activities such as hacking and malware distribution."
+  },
+  {
+    "question": "Which of these is an example of cloud-based Internet service?",
+    "options": ["Google Drive", "Microsoft Word", "Notepad", "Calculator"],
+    "correctAnswer": "Google Drive",
+    "rationale": "Cloud services like Google Drive allow online storage and access to files through the Internet."
+  },
+  {
+    "question": "Which of the following is NOT an essential element of data communication?",
+    "options": ["Message", "Sender", "Receiver", "Compiler"],
+    "correctAnswer": "Compiler",
+    "rationale": "The essential elements are sender, message, medium, receiver, and protocol; compiler is not part of communication."
+  },
+  {
+    "question": "In data communication, what does 'medium' refer to?",
+    "options": ["The device that sends data", "The device that stores data", "The channel through which data travels", "The speed of transmission"],
+    "correctAnswer": "The channel through which data travels",
+    "rationale": "The medium is the physical path (like cables or air) used for transmission."
+  },
+  {
+    "question": "Which of the following transmission modes allows data to flow in both directions but only one direction at a time?",
+    "options": ["Simplex", "Half-duplex", "Full-duplex", "Multiplex"],
+    "correctAnswer": "Half-duplex",
+    "rationale": "Half-duplex communication allows bidirectional flow but not simultaneously."
+  },
+  {
+    "question": "Which device regenerates and strengthens signals in a communication system?",
+    "options": ["Router", "Hub", "Repeater", "Switch"],
+    "correctAnswer": "Repeater",
+    "rationale": "A repeater amplifies and retransmits signals to extend communication distance."
+  },
+  {
+    "question": "What does 'bandwidth' in data communication refer to?",
+    "options": ["The distance between sender and receiver", "The number of users on a network", "The capacity of a channel to carry data", "The amount of data stored in memory"],
+    "correctAnswer": "The capacity of a channel to carry data",
+    "rationale": "Bandwidth is the maximum rate at which data can be transmitted over a channel."
+  }
+]
