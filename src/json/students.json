@@ -35,7 +35,7 @@
         "password": "aykr9794"
     },
     {
-        "matricNumber": "230816007",
+        "matricNumber": "230816008",
         "name": "CHINEDU CHIDI VICTOR",
         "password": "n7an4h29"
     },
@@ -198,6 +198,11 @@
         "matricNumber": "230816057",
         "name": "ADARANJOLO AMINAT OLUWATOMISIN",
         "password": "ulfs2ns6"
+    },
+    {
+        "matricNumber": "240816006",
+        "name": "Ofoegbu Micheal",
+        "password": "qs34dwf5"
     }
     
 ]
