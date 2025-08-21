@@ -95,7 +95,7 @@ export class QuizService {
       const querySnapshot = await getDocs(q)
       const results: QuizResult[] = []
 
-      querySnapshot.forEach((doc) => {
+  querySnapshot.forEach((doc: any) => {
         const data = doc.data()
         results.push({ 
           id: doc.id, 
@@ -119,7 +119,7 @@ export class QuizService {
       const querySnapshot = await getDocs(collection(db, 'quizTopics'))
       const topics: QuizTopic[] = []
 
-      querySnapshot.forEach((doc) => {
+  querySnapshot.forEach((doc: any) => {
         topics.push({ id: doc.id, ...doc.data() } as QuizTopic)
       })
 

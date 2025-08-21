@@ -107,7 +107,7 @@ export class FirebaseQuizService {
       )
 
       const querySnapshot = await getDocs(q)
-      const results: QuizResult[] = querySnapshot.docs.map(doc => ({
+  const results: QuizResult[] = querySnapshot.docs.map((doc: any) => ({
         id: doc.id,
         ...doc.data(),
         completedAt: doc.data().completedAt?.toDate?.()?.toISOString() || new Date().toISOString()
@@ -206,7 +206,7 @@ export class FirebaseQuizService {
       )
 
       const querySnapshot = await getDocs(q)
-      const results: QuizResult[] = querySnapshot.docs.map(doc => ({
+  const results: QuizResult[] = querySnapshot.docs.map((doc: any) => ({
         id: doc.id,
         ...doc.data(),
         completedAt: doc.data().completedAt?.toDate?.()?.toISOString() || new Date().toISOString()
