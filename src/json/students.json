@@ -1,5 +1,10 @@
 [
     {
+        "matricNumber": "24242424",
+        "name": "Administrator",
+        "password": "Admin@12345"
+    },
+    {
         "matricNumber": "210808507",
         "name": "OKAFOREZEUDU CHIDUBEM LINUS",
         "password": "y8j0xlia"
@@ -194,4 +199,5 @@
         "name": "ADARANJOLO AMINAT OLUWATOMISIN",
         "password": "ulfs2ns6"
     }
+    
 ]

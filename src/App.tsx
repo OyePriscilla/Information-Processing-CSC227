@@ -11,8 +11,10 @@ function App() {
   const [loading, setLoading] = useState(true)
 
   // Check if current user is admin
+  // Only allow a single static admin login
+  // Admin is identified by matric number '24242424' (stored in displayName)
   const isAdmin = (user: User | null): boolean => {
-    return user?.displayName === 'Administrator' || user?.email?.includes('admin@') || false;
+    return user?.displayName === '24242424';
   };
 
   useEffect(() => {
